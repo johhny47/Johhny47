@@ -14,7 +14,7 @@ Skills:  HTML / CSS/ JS/REACT/Expressjs/Nodejs/Mongodb/Nextjs
 - ⚡ Fun fact: Sports 
 
 
-<div align="center">
+<div align="center" >
 
 <a href="https://github.com/johhny47">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="margin: 10px;">
@@ -33,7 +33,7 @@ Skills:  HTML / CSS/ JS/REACT/Expressjs/Nodejs/Mongodb/Nextjs
 
 
 
-<div align="center" style="padding-top: 20;">
+<div align="center" style="padding-top: 20px;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johhny47)](https://github.com/anuraghazra/github-readme-stats)  
 
