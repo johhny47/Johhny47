@@ -1,6 +1,7 @@
+![I am a web-developer](https://i.ibb.co.com/QFq1GPnD/Screenshot-2025-02-05-074854.png)
 ### Hi there 👋, I am Joni Fakir
 #### I am a web-developer
-![I am a web-developer](https://i.ibb.co.com/QFq1GPnD/Screenshot-2025-02-05-074854.png)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
