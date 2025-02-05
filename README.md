@@ -32,22 +32,23 @@ When I'm not coding, you can find me exploring the latest industry trends, exper
 - ⚡ Fun fact: Sports 
 
 
-<div align="center" >
+## 🌍 Connect with Me  
 
-<a href="https://github.com/johhny47">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="margin: 10px;">
-</a>
-<a href="https://www.linkedin.com/in/joni-fakir-50803b344/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" style="margin: 10px;">
-</a>
-<a href="https://www.facebook.com/md.johnny.526">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" style="margin: 10px;">
-</a>
-<a href="https://twitter.com/mdjohnny063">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" style="margin: 10px;">
-</a>
+<p align="center">
+    <a href="https://github.com/johhny47" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40"/>
+    </a>
+    <a href="https://www.linkedin.com/in/joni-fakir-50803b344/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
+    </a>
+    <a href="https://www.facebook.com/md.johnny.526" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="40"/>
+    </a>
+    <a href="https://twitter.com/mdjohnny063" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40"/>
+    </a>
+</p>
 
-</div>
 
 <br><br><br>
 
