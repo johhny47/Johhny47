@@ -59,7 +59,7 @@ When I'm not coding, you can find me exploring the latest industry trends, exper
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Johhny47&theme=dark" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=Johhny47&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
