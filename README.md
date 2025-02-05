@@ -63,7 +63,6 @@ When I'm not coding, you can find me exploring the latest industry trends, exper
 </p>
 
 <p align="center">
-   ![GitHub streak stats](https://streak-stats.demolab.com/?user=johhny47) 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johhny47&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=johhny47) 
