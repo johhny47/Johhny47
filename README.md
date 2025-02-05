@@ -3,9 +3,13 @@
 ### I am a web-developer
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+With over years of experience in the world of web development, I specialize in creating dynamic, user-centric websites and applications. I have a strong proficiency in front-end technologies such as HTML, CSS, JavaScript, and React frameworks. On the back-end, I work with Node.js, Expressjs and MongoDB as databases.
 
-Skills:  HTML / CSS/ JS/REACT/Expressjs/Nodejs/Mongodb/Nextjs
+I am passionate about clean code, responsive design, and optimizing web performance. My expertise also extends to version control (Git), APIs, and ensuring that I deliver high-quality projects on time and within budget.
+
+When I'm not coding, you can find me exploring the latest industry trends, experimenting with new tools, or working on personal development projects. I am always eager to collaborate with forward-thinking teams to create seamless digital experiences.
+
+Skills:  HTML/CSS/TailwindCss/JS/REACT/Nodejs/Expressjs/Mongodb/Nextjs/Firebase
 
 - 🔭 I’m currently working on Nextjs 
 - 🌱 I’m currently learning TypeScript 
