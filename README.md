@@ -65,4 +65,6 @@ When I'm not coding, you can find me exploring the latest industry trends, exper
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johhny47&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-![GitHub streak stats](https://streak-stats.demolab.com/?user=johhny47) 
+
+
+
