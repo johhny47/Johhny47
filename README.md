@@ -31,9 +31,9 @@ Skills:  HTML / CSS/ JS/REACT/Expressjs/Nodejs/Mongodb/Nextjs
 
 </div>
 
+<br><br><br>
 
-
-<div align="center" style="padding-top: 20px;">
+<div align="center" >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johhny47)](https://github.com/anuraghazra/github-readme-stats)  
 
