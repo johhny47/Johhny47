@@ -57,14 +57,11 @@ When I'm not coding, you can find me exploring the latest industry trends, exper
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=johhny47&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=johhny47&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johhny47&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=johhny47&theme=tokyonight" alt="GitHub Streak" />
+</p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/johhny47/contributions?format=svg&private=true)
 
