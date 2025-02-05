@@ -63,5 +63,6 @@ When I'm not coding, you can find me exploring the latest industry trends, exper
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=johhny47&theme=tokyonight" alt="GitHub Streak" />
 </p>
+<br><br><br>
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/johhny47/contributions?format=svg&private=true)
 
